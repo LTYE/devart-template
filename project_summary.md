@@ -5,7 +5,7 @@ Time Will Forget You
 - Clarke Noone, LTYE
 
 ## Description
-Time will forget you is an interactive piece that reflects on the unimportance of the importance of the passing of the human race as we fly through life, space and time. 
+Time will forget you is an interactive piece that reflects on the unimportance of the importance of the passing of the human race as we fly through life, space and time. Using Kinect technology, gesture capture and reveal.js the code dynamically creates short sentences in a 3D space that can be rearranged mid air by your movements.
 
 ## Link to Prototype
 - Coming Soon
